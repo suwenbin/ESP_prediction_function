@@ -30,7 +30,8 @@ pip install pandas==1.3.1
 pip install torch==1.12.1
 pip install numpy==1.23.1
 pip install fair-esm==0.4.0
-conda install -c conda-forge py-xgboost=1.3.3
+#conda install -c conda-forge py-xgboost=1.3.3
+pip install xgboost==1.3.3
 conda install -c rdkit rdkit=2022.09.5
 ```
 
